@@ -1,10 +1,12 @@
 import React from 'react';
+import deleteImg from '../images/delete.png';
 
 function PrivacyDelete() {
   return (
-    <div>
-      <h2>Privacy Delete</h2>
-      <p>Fast deletion help for private photos/videos leaked online.</p>
+    <div className="feature-box">
+      <img src={deleteImg} alt="Privacy Delete" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
+      <h3>Privacy Delete</h3>
+      <p>Help to instantly delete private images/videos from phone or online if compromised.</p>
     </div>
   );
 }
