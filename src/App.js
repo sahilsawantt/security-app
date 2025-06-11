@@ -4,9 +4,9 @@ import './App.css';
 import LadyDriver from './components/ladydriver';
 import LegalSupport from './components/LegalSupport';
 import PrivacyDelete from './components/privacydelete';
-import Emergency from './components/Emergency';
+import Emergency from './components/Emergencyhelp';
 import HarassmentReport from './components/HarassmentReport';
-import StreetViolence from './components/StreetViolence';
+import StreetViolence from './components/Street_Violence';
 
 function App() {
   return (
