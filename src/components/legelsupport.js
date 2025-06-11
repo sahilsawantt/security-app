@@ -1,10 +1,12 @@
 import React from 'react';
+import legalImg from '../images/legal.png';
 
 function LegalSupport() {
   return (
-    <div>
-      <h2>Legal Support</h2>
-      <p>Get legal help for rape/abuse cases with confidentiality.</p>
+    <div className="feature-card">
+      <img src={legalImg} alt="Legal Support" />
+      <h3>Legal Support</h3>
+      <p>Legal help for victims of harassment or assault.</p>
     </div>
   );
 }
