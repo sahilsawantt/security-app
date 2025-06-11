@@ -1,5 +1,5 @@
 import React from 'react';
-import legalImg from '../images/lagelsupport.png';
+import legalImg from '../images/legalsupport.png';
 
 function LegalSupport() {
   return (
