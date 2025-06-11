@@ -1,5 +1,5 @@
 import React from 'react';
-import deleteImg from '../images/Privacydelete.png';
+import deleteImg from '../images/privacydelete.png';
 
 function PrivacyDelete() {
   return (
