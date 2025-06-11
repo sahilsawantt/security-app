@@ -11,4 +11,4 @@ function LegalSupport() {
   );
 }
 
-export default LegalSupport;
+export default legalSupport;
