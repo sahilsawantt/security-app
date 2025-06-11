@@ -1,5 +1,5 @@
 import React from 'react';
-import streetImg from '../images/street.png';
+import streetImg from '../images/street_violence.png';
 
 function StreetViolence() {
   return (
