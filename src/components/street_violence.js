@@ -1,10 +1,12 @@
 import React from 'react';
+import streetImg from '../images/street.png';
 
 function StreetViolence() {
   return (
-    <div>
-      <h2>Street Violence Report</h2>
-      <p>Report street violence or public abuse incidents safely.</p>
+    <div className="feature-card">
+      <img src={streetImg} alt="Street Violence" />
+      <h3>Street Violence</h3>
+      <p>Report street crime and public safety threats.</p>
     </div>
   );
 }
