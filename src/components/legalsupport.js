@@ -14,7 +14,7 @@
 // export default LegalSupport;
 
 import React from 'react';
-import legalImg from '../images/legalImg.png';
+import legalImg from '../images/legalsupport.png';
 
 function LegalSupport() {
   return (
