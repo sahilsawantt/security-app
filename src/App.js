@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 import LadyDriver from './components/ladydriver';
-import LegalSupport from './components/legelsupport';
+import LegalSupport from './components/lagelsupport';
 import PrivacyDelete from './components/privacydelete';
 import Emergency from './components/emergancyhelp';
 import HarassmentReport from './components/harassment';
