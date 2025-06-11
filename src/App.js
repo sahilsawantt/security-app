@@ -6,7 +6,7 @@ import LegalSupport from './components/LegalSupport';
 import PrivacyDelete from './components/privacydelete';
 import Emergency from './components/Emergencyhelp';
 import HarassmentReport from './components/HarassmentReport';
-import StreetViolence from './components/Street_Violence';
+import StreetViolence from './components/StreetViolence';
 
 function App() {
   return (
