@@ -1,5 +1,5 @@
 import React from 'react';
-import driverImg from '../images/driver.png';
+import driverImg from '../images/ladydriver.png';
 
 function LadyDriver() {
   return (
