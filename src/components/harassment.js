@@ -1,10 +1,12 @@
 import React from 'react';
+import reportImg from '../images/report.png';
 
 function HarassmentReport() {
   return (
-    <div>
-      <h2>Harassment Report</h2>
-      <p>Report harassment (online or offline) directly and securely.</p>
+    <div className="feature-card">
+      <img src={reportImg} alt="Report Harassment" />
+      <h3>Report Harassment</h3>
+      <p>File a harassment complaint or raise awareness.</p>
     </div>
   );
 }
