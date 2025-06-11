@@ -1,5 +1,5 @@
 import React from 'react';
-import reportImg from '../images/report.png';
+import reportImg from '../images/harassment.png';
 
 function HarassmentReport() {
   return (
