@@ -35,7 +35,7 @@ function App() {
         <StreetViolence />
         <PoliceHarassment />
         <UnsafeZone />
-        <illegalActivity />
+        <IllegalActivity />
         <HospitalHelp />
       </div>
 
