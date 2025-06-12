@@ -33,10 +33,10 @@ function App() {
         <Emergency />
         <HarassmentReport />
         <StreetViolence />
-        <PoliceHarassment/>
-        <UnsafeZone/>
-        <IllegalActivity/>
-        <HospitalHelp/>
+        <PoliceHarassment />
+        <UnsafeZone />
+        <IllegalActivity />
+        <HospitalHelp />
       </div>
 
       <footer className="footer">
