@@ -7,10 +7,10 @@ import PrivacyDelete from './components/privacydelete';
 import Emergency from './components/emergancyhelp';
 import HarassmentReport from './components/harassment';
 import StreetViolence from './components/street_violence';
-import StreetViolence from './components/hospitalhelp';
-import StreetViolence from './components/IllegalActivity';
-import StreetViolence from './components/PoliceHarassment';
-import StreetViolence from './components/UnsafeZone';
+import HospitalHelp from './components/hospitalhelp';
+import IllegalActivity from './components/IllegalActivity';
+import PoliceHarassment from './components/PoliceHarassment';
+import UnsafeZone from './components/UnsafeZone';
 
 function App() {
   return (

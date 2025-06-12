@@ -1,5 +1,5 @@
 import React from 'react';
-import hospitalImg from '../images/hospital.png';
+import hospitalImg from '../images/hospitalhelp.png';
 
 function HospitalHelp() {
   return (
