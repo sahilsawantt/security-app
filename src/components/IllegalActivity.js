@@ -15,7 +15,7 @@
 function IllegalActivity() {
   return (
     <div className="feature-box">
-      <img src="/images/illegalactivity.png" alt="Illegal Activity" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+      <img src="/images/illegalactivity.png" alt="Illegal Activity"  />
       <h3>Illegal Activities</h3>
       <p>Report any suspicious or illegal actions happening nearby.</p>
     </div>
