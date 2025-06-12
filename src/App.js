@@ -8,7 +8,7 @@ import Emergency from './components/emergancyhelp';
 import HarassmentReport from './components/harassment';
 import StreetViolence from './components/street_violence';
 import HospitalHelp from './components/hospitalhelp';
-import IllegalActivity from './components/IllegalActivity';
+import IllegalActivity from './components/illegalactivity';
 import PoliceHarassment from './components/PoliceHarassment';
 import UnsafeZone from './components/UnsafeZone';
 
@@ -35,7 +35,7 @@ function App() {
         <StreetViolence />
         <PoliceHarassment />
         <UnsafeZone />
-        <IllegalActivity />
+        <illegalActivity />
         <HospitalHelp />
       </div>
 
