@@ -7,6 +7,14 @@ import PrivacyDelete from './components/privacydelete';
 import Emergency from './components/emergancyhelp';
 import HarassmentReport from './components/harassment';
 import StreetViolence from './components/street_violence';
+import StreetViolence from './components/hospitalhelp';
+import StreetViolence from './components/IllegalActivity';
+import StreetViolence from './components/PoliceHarassment';
+import StreetViolence from './components/UnsafeZone';
+import PoliceHarassment from './components/PoliceHarassment';
+import UnsafeZone from './components/UnsafeZone';
+import IllegalActivity from './components/IllegalActivity';
+import HospitalHelp from './components/hospitalhelp';
 
 function App() {
   return (
@@ -29,6 +37,10 @@ function App() {
         <Emergency />
         <HarassmentReport />
         <StreetViolence />
+        <PoliceHarassment/>
+        <UnsafeZone/>
+        <IllegalActivity/>
+        <HospitalHelp/>
       </div>
 
       <footer className="footer">
