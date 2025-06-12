@@ -24,7 +24,7 @@ function App() {
         </nav>
       </header>
 
-      <p className="tagline">( Hamare bolne me nhi, krne me guarantee he )</p>
+      <p className="tagline"> Hamare bolne me nhi, krne me guarantee he </p>
 
       <div className="features-grid">
         <LadyDriver />
