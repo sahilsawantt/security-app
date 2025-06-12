@@ -1,16 +1,16 @@
 import React from 'react';
 
-function IllegalActivity() {
+function CrimeAlert() {
   return (
     <div className="feature-card">
-      <img src="./images/illegalactivity.png" alt="Illegal Activity" />
+      <img src="./images/CrimeAlert.png" alt="CrimeAlert" />
       <h3>Illegal Activities</h3>
       <p>Let us know if something illegal is happening around you.</p>
     </div>
   );
 }
 
-export default IllegalActivity;
+export default CrimeAlert;
 
 // function IllegalActivity() {
 //   return (
