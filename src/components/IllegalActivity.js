@@ -3,7 +3,7 @@ import React from 'react';
 function IllegalActivity() {
   return (
     <div className="feature-card">
-      <img src="./images/illegal.png" alt="Illegal Activity" />
+      <img src="./images/illegalctivity.png" alt="Illegal Activity" />
       <h3>Illegal Activities</h3>
       <p>Let us know if something illegal is happening around you.</p>
     </div>

@@ -3,7 +3,7 @@ import React from 'react';
 function UnsafeZone() {
   return (
     <div className="feature-card">
-      <img src="./images/UnsafeZone.png" alt="Unsafe Area" />
+      <img src="./images/UnsafeZone.png" alt="Unsafe zone" />
       <h3>Unsafe Public Places</h3>
       <p>Mark areas that feel unsafe to alert others in the community.</p>
     </div>
