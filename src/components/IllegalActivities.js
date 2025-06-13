@@ -1,12 +1,12 @@
 import React from 'react';
-import illegalactivities from '../images/illegalactivities.png'; 
+import illegalactivitiesImg from '../images/illegalactivities.png';
 
 function IllegalActivities() {
   return (
     <div className="feature-card">
-      <img src={illegalactivitiesImg} alt="illegalactivities" />
+      <img src={illegalactivitiesImg} alt="Illegal Activities" />
       <h3>Illegal Activities</h3>
-      <p>Report activities like drug dealing, trafficking, or other illegal incidents.</p>
+      <p>Report any kind of illegal activities happening in your area anonymously.</p>
     </div>
   );
 }
