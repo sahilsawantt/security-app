@@ -1,7 +1,7 @@
 import React from 'react';
 import CrimeAlert from '../images/crimealert.png';
 
-function Emergency() {
+function crimealert() {
   return (
     <div className="feature-card">
       <img src={CrimeAlert} alt="CrimeAlert" />
