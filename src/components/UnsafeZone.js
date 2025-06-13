@@ -1,11 +1,12 @@
 import React from 'react';
+import UnsafeZoneImg from '../images/unsafezone.png'; 
 
 function UnsafeZone() {
   return (
     <div className="feature-card">
-      <img src="./images/UnsafeZone.png" alt="Unsafe zone" />
+      <img src={UnsafeZoneImg} alt="Unsafe Zone" />
       <h3>Unsafe Public Places</h3>
-      <p>Mark areas that feel unsafe to alert others in the community.</p>
+      <p>Mark locations where public safety is compromised or women feel unsafe.</p>
     </div>
   );
 }
