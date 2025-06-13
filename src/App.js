@@ -8,9 +8,8 @@ import Emergency from './components/emergancyhelp';
 import HarassmentReport from './components/harassment';
 import StreetViolence from './components/street_violence';
 import HospitalHelp from './components/hospitalhelp';
-import CrimeAlert from './components/CrimeAlert';
-// import PoliceMisconduct from './components/PoliceMisconduct';
-// import DangerZone from './components/DangerZone';
+import PoliceHarassment from './components/PoliceHarassment';
+
 
 function App() {
   return (
@@ -33,7 +32,7 @@ function App() {
         <Emergency />
         <HarassmentReport />
         <StreetViolence />
-       <CrimeAlert />
+        <CrimeAlert />
         <HospitalHelp />
       </div>
 
