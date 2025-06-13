@@ -29,7 +29,7 @@ function App() { return ( <Router> <div className="app"> <header className="head
         </div>
       } />
 
-      <Route path="/lady-driver" element={<LadyDriverPage />} />
+      <Route path="/lady-driver" element={<LadyDriver />} />
       <Route path="/legal-support" element={<LegalSupportPage />} />
       <Route path="/privacy-delete" element={<PrivacyDeletePage />} />
       <Route path="/emergency-help" element={<EmergencyPage />} />
