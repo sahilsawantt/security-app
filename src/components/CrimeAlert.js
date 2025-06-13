@@ -1,14 +1,14 @@
-export default CrimeAlert; from '../images/CrimeAlert.png';
+import React from 'react';
+import CrimeAlert from '../images/CrimeAlert.png';
 
-function HospitalHelp() {
+function Emergency() {
   return (
     <div className="feature-card">
-      <img src={hospitalImg} alt="CrimeAlert" />
-      <h3>Hospital Help</h3>
-      <p>Report issues related to hospital bills, insurance, or misbehavior by staff or doctors.</p>
+      <img src={CrimeAlert} alt="CrimeAlert" />
+      <h3>Emergency Help</h3>
+      <p>Send quick emergency alerts to saved contacts.</p>
     </div>
   );
 }
 
 export default CrimeAlert;
-
