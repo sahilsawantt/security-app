@@ -1,14 +1,14 @@
 import React from 'react';
-import driverImg from '../images/ladydriver.png';
+import ladydriver from '../images/ladydriver.png';
 
-function LadyDriver() {
+function ladydriver() {
   return (
-    <div className="feature-box">
-      <img src={driverImg} alt="Lady Driver" />
-      <h3>Lady Driver Cab</h3>
-      <p>Night-time safe cab booking with verified lady drivers for secure travel.</p>
+    <div className="feature-card">
+      <img src={LadyDriverImg} alt="Lady Driver" />
+      <h3>Illegal Activities</h3>
+      <p>Report any kind of illegal activities happening in your area anonymously.</p>
     </div>
   );
 }
 
-export default LadyDriver;
+export default ladydriver;
