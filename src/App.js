@@ -32,7 +32,7 @@ function App() {
         <Emergency />
         <HarassmentReport />
         <StreetViolence />
-        <CrimeAlert />
+        <PoliceHarassment />
         <HospitalHelp />
       </div>
 
