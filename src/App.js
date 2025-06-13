@@ -9,7 +9,7 @@ import HarassmentReport from './components/harassment';
 import StreetViolence from './components/street_violence';
 import HospitalHelp from './components/hospitalhelp';
 import PoliceHarassment from './components/PoliceHarassment';
-import UnsafeZone from './components/unsafezone';
+import UnsafeZone from './components/UnsafeZone';
 
 
 function App() {
@@ -35,7 +35,7 @@ function App() {
         <StreetViolence />
         <PoliceHarassment />
         <HospitalHelp />
-        <Unsafezone />
+        <UnsafeZone />
       </div>
 
       <footer className="footer">
