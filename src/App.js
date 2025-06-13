@@ -2,7 +2,7 @@ import React from 'react'; import { BrowserRouter as Router, Routes, Route } fro
 
 import LadyDriver from './components/ladydriver';
 import LegalSupport from './components/legalsupport';
-import PrivacyDelete from './components/PrivacyDelete';
+import PrivacyDelete from './components/privacydelete';
 import Emergency from './components/emergancyhelp';
 import HarassmentReport from './components/harassment';
 import StreetViolence from './components/street_violence';
