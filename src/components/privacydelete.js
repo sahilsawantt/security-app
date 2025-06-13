@@ -1,12 +1,12 @@
 import React from 'react';
-import deleteImg from '../images/privacydelete.png';
+import privacyImg from '../images/privacydelete.png'; // इमेज का नाम और path सही रखें
 
 function PrivacyDelete() {
   return (
-    <div className="feature-box">
-      <img src={deleteImg} alt="Privacy Delete" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
+    <div className="feature-card">
+      <img src={privacyImg} alt="Privacy Delete" />
       <h3>Privacy Delete</h3>
-      <p>Help to instantly delete private images/videos from phone or online if compromised.</p>
+      <p>Get immediate help in deleting private or sensitive photos/videos from the internet or device.</p>
     </div>
   );
 }
