@@ -1,5 +1,5 @@
 import React from 'react';
-import illegalactivityImg from '../images/illegalactivity.png'; // image add karna hoga
+import IllegalActivities from '../images/illegalactivity.png'; // image add karna hoga
 
 function IllegalActivities() {
   return (
