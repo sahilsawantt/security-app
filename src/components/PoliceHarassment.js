@@ -1,5 +1,5 @@
 import React from 'react';
-import policeImg from '../images/PoliceHarassment.png'; 
+import policeImg from '../images/policeharassment.png'; 
 
 function PoliceHarassment() {
   return (
