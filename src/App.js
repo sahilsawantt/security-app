@@ -10,7 +10,7 @@ import StreetViolence from './components/street_violence';
 import HospitalHelp from './components/hospitalhelp';
 import PoliceHarassment from './components/PoliceHarassment';
 import UnsafeZone from './components/UnsafeZone';
-
+import IllegalActivities from './components/IllegalActivities';
 
 function App() {
   return (
@@ -36,6 +36,7 @@ function App() {
         <PoliceHarassment />
         <HospitalHelp />
         <UnsafeZone />
+       <IllegalActivities />
       </div>
 
       <footer className="footer">
