@@ -30,15 +30,15 @@ function App() { return ( <Router> <div className="app"> <header className="head
       } />
 
       <Route path="/lady-driver" element={<LadyDriver />} />
-      <Route path="/legal-support" element={<LegalSupportPage />} />
-      <Route path="/privacy-delete" element={<PrivacyDeletePage />} />
-      <Route path="/emergency-help" element={<EmergencyPage />} />
-      <Route path="/harassment-report" element={<HarassmentReportPage />} />
-      <Route path="/street-violence" element={<StreetViolencePage />} />
-      <Route path="/hospital-help" element={<HospitalHelpPage />} />
-      <Route path="/police-harassment" element={<PoliceHarassmentPage />} />
-      <Route path="/unsafe-zone" element={<UnsafeZonePage />} />
-      <Route path="/illegal-activities" element={<IllegalActivitiesPage />} />
+      <Route path="/legal-support" element={<LegalSupport />} />
+      <Route path="/privacy-delete" element={<PrivacyDelete />} />
+      <Route path="/emergency-help" element={<Emergency />} />
+      <Route path="/harassment-report" element={<HarassmentReport />} />
+      <Route path="/street-violence" element={<StreetViolence />} />
+      <Route path="/hospital-help" element={<HospitalHelp />} />
+      <Route path="/police-harassment" element={<PoliceHarassment />} />
+      <Route path="/unsafe-zone" element={<UnsafeZone />} />
+      <Route path="/illegal-activities" element={<IllegalActivities />} />
     </Routes>
   </div>
 </Router>
