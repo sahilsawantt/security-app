@@ -1,5 +1,5 @@
 import React from 'react';
-import CrimeAlert from '../images/CrimeAlert.png';
+import CrimeAlert from '../images/crimealert.png';
 
 function Emergency() {
   return (
